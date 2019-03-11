@@ -1,0 +1,11 @@
+{
+  "name": "graphql-teaching",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/danivijay/graphql-teaching.git",
+  "author": "danivivriti <danimvijay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
